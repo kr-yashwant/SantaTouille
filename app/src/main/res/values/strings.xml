@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">SantaTouille</string>
+    <string name="app_name">Material Login Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="invalid_email_address_error">Enter a valid Email Address</string>
+    <string name="invalid_password_error">Between 4 and 10 alphanumeric characters</string>
+    <string name="progress_dialog_authenticating_message">Authenticating...</string>
+    <string name="error_login_failed">Login Failed</string>
 </resources>
